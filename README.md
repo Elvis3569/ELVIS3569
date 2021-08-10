@@ -1,6 +1,7 @@
 ### Hi there 👋 
-Welcome, 
-- 🌱 I’m currently learning ...
+Welcome to my profile, My name is Elvis Ikay..
+- 🌱 I’m currently learning how to code...
+
 
 <!--
 **Elvis3569/ELVIS3569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
