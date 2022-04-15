@@ -1,6 +1,6 @@
 ### Hi there 👋 
 Welcome to my profile, My name is Elvis Ikay..
-- 🌱 I’m currently learning how to code...
+- 🌱 I’m a full-stack dev..
 
 
 <!--
